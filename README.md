@@ -2,7 +2,7 @@
 
 Hello! 👋 Welcome to my GitHub page.
 
-About Me: I’m an aspiring Data Scientist | Data Analyst
+About Me: I’m an aspiring Data Scientist | Data Analyst.
 
 Connect with me on these platforms
 
@@ -12,4 +12,4 @@ Connect with me on these platforms
 
 🔗 Reddit: https://www.reddit.com/user/deepcontractor
 
-Oh and yes don't forget to check out some of my latest projects.
+Oh and yes don't forget to check out some of my latest projects 👇.
