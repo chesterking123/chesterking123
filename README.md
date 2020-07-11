@@ -12,4 +12,6 @@ Connect with me on these platforms
 
 🔗 Reddit: https://www.reddit.com/user/deepcontractor
 
+📧 Gmail: deep.contractor88@gmail.com
+
 Oh and don't forget to check out some of my latest projects 👇.
