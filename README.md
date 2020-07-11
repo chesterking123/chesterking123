@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**chesterking123/chesterking123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! 👋 Welcome to my GitHub page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me: I’m an aspiring Data Scientist | Data Analyst
+
+Connect with me on these platforms
+
+🔗 Twitter: https://twitter.com/deep_contractor
+
+🔗 LinkedIn: https://www.linkedin.com/in/deep-contractor-85b508168/
+
+🔗 Reddit: https://www.reddit.com/user/deepcontractor
