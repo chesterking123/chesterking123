@@ -1,6 +1,6 @@
 
 
-Hello! 👋 Welcome to my GitHub page.
+## Hello! 👋 Welcome to my GitHub page.
 
 About Me: I’m an aspiring Data Scientist | Data Analyst.
 
