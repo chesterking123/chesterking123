@@ -12,4 +12,4 @@ Connect with me on these platforms
 
 🔗 Reddit: https://www.reddit.com/user/deepcontractor
 
-Oh and yes don't forget to check out some of my latest projects 👇.
+Oh and don't forget to check out some of my latest projects 👇.
