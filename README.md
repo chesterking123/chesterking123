@@ -4,7 +4,7 @@
 
 About Me: I’m an aspiring Data Scientist | Data Analyst.
 
-Connect with me on these platforms
+Connect with me on these platforms: 
 
 🔗 Twitter: https://twitter.com/deep_contractor
 
