@@ -1,6 +1,6 @@
 
 
-## Hello! 👋 Welcome to my GitHub page.
+## Hello! 👋 Welcome to my GitHub Page.
 
 #### [Visualize My Profile](https://sourcerer.io/chesterking123)
 
