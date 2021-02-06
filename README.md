@@ -4,7 +4,7 @@
 
 #### [Visualize My Profile](https://sourcerer.io/chesterking123)
 
-About Me: I’m an aspiring Data Scientist | Data Analyst.
+About Me: Data Science Intern at Celebal Techonologies.
 
 Connect with me on these platforms: 
 
@@ -18,4 +18,4 @@ Connect with me on these platforms:
 
 📧 Gmail: deep.contractor88@gmail.com
 
-Oh and don't forget to check out some of my latest projects 👇.
+Oh and don't forget to check out some of my latest work 👇.
